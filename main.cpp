@@ -6,9 +6,6 @@
 #include "GamePanel.h"
 using namespace std;
 
-bool is_living(vector<Cell>&, int, int);
-unsigned numberOfNeighbours(vector<Cell>&, int, int);
-void nextStage(vector<Cell>&, vector<Cell>&);
 
 int main(){
 
